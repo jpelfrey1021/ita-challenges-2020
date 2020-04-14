@@ -1,0 +1,2 @@
+# ITA Challenges
+The challenges are all in their appropriately titled folders, but all challenge solutions are inside the `challenge-solutions` folder to make them easy to break out without the solutions attached.

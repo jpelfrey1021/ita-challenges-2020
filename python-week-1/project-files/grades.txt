@@ -1,0 +1,10 @@
+Quiz1 95
+Quiz2 90
+Quiz3 85
+Quiz4 100
+Test1 95
+Test2 85
+Test3 84
+Test4 80
+Midterm 70
+Final 80
