@@ -1,6 +1,13 @@
-package challenge
+package main
 
-import "strconv"
+import (
+	"fmt"
+	"strconv"
+)
+
+func main() {
+	fmt.Println(stringToInt("9"))
+}
 
 func stringToInt(s string) int {
 	i, err := strconv.Atoi(s)
