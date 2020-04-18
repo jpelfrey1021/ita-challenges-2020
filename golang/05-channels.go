@@ -1,8 +1,15 @@
-package challenge
+package main
 
-import "time"
+import (
+	"fmt"
+	"time"
+)
 
-func helloWorld() string{
+func main() {
+	fmt.Println(helloWorld())
+}
+
+func helloWorld() string {
 	ch1 := make(chan string)
 
 	go hello(ch1)
